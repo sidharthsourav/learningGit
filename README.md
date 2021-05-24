@@ -14,4 +14,4 @@ Test trial for learning git.
 ## Repo started locally
 * if the repo is locally move into th folder then [git init].
 * Do the steps till commit but you can not push it it will shiow fatal error. to resolve this create a empty repository on github as same name as locally stored code folder.
-* copy the ssh link and finally use [git remote add origin "ssh link"] after this you can check via git remote -v or directly try to push. the code it will work fine. for pushing the first time you have to use [] git push -u origin master ] after that normal git push will work.
+* copy the ssh link and finally use [git remote add origin "ssh link"] after this you can check via git remote -v or directly try to push. the code it will work fine. for pushing the first time you have to use [ git push -u origin master ] after that normal git push will work.
