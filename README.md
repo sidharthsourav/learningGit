@@ -10,3 +10,7 @@ Test trial for learning git.
 5. fifth [git commit -m " message why are you commiting" -m "description"] second -m is optional.
 6. finally [git push] and use the phrase entered while ssh key generation.
 7. Note* the phrase is sourav.
+
+## Repo started locally
+* if the repo is locally move into th folder then [git init].
+    then it is usually git add commit and push.
